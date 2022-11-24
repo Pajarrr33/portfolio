@@ -1,0 +1,72 @@
+
+
+body,.bg-nav {
+    background-color: white;
+}
+a{
+    color: black;
+}
+
+#home{
+    position: relative;
+}
+
+.custom-shape-divider-bottom-1669203090 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1669203090 svg {
+    position: relative;
+    display: block;
+    width: calc(177% + 1.3px);
+    height: 82px;
+}
+
+.custom-shape-divider-bottom-1669203090 .shape-fill {
+    fill: white;
+}
+
+.bg-home{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b3dced+0,29b8e5+50,bce0ee+100;Blue+Pipe */
+background: #b3dced; /* Old browsers */
+background: -moz-linear-gradient(top,  #b3dced 0%, #29b8e5 50%, #bce0ee 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 ); /* IE6-9 */
+
+}
+
+.mb-home{
+    margin-bottom: 75px;
+}
+
+.contact {
+    position: relative;
+    margin-top: 170px;
+}
+
+.wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave svg {
+    position: relative;
+    display: block;
+    width: calc(177% + 1.3px);
+    height: 82px;
+}
+
+.wave .shape-fill {
+    fill: #FFFFFF;
+}
